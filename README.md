@@ -1,4 +1,4 @@
-# mark-down-previewer
+# Drum machine
 
 ## Project Description 📝
 
@@ -33,7 +33,7 @@ Folow these steps to set up the project on your local machine Ensure you have th
 
 # git clone 
 
-https://github.com/fatiabdulahi/drum-machine/
+https://github.com/Sharifarezaie/Drum-Machine-new/pull
 
 ## Usage 🎯
 
@@ -55,13 +55,13 @@ The current drum sound being played is displayed in the #display element.
 Responsive design that adapts to different screen sizes.
 
 
-## Author 👩‍💻 FATIMA ABDULLAHI
+## Author 👩‍💻 sharifa rezaie
 
 Provide your name and a link to your Social Media profiles. You can also include your email address.
 
 
-- LinkedIn:https://www.linkedin.com/in/fatima-abdullahi-6288662b2
-- Email: fatima333abdullahi@gmail.com
+- LinkedIn:https://www.linkedin.com/in/sharifa-rezaie-
+- Email: sharifashaida82@gmail.com
 
 ## Contributing 🤝
 
